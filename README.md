@@ -8,4 +8,4 @@
 
 ![Imagen](https://github.com/santiagobarbeito/santiagobarbeito.github.io/blob/main/Lineas.jpg)
 
-![Imagen](https://github.com/santiagobarbeito/santiagobarbeito.github.io/blob/main/Lineas 2.jpg)
+![Imagen](https://github.com/santiagobarbeito/santiagobarbeito.github.io/blob/main/Lineas2.jpg)
