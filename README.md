@@ -4,4 +4,4 @@
 
 [Lineas](https://santiagobarbeito.github.io/Lineas/) 
 
-![Image](src)
+![Imagen](https://github.com/santiagobarbeito/Lineas/blob/main/Image.png)
